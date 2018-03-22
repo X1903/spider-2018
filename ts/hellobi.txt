@@ -1,0 +1,1806 @@
+微软 BI 实战入门系列【持续更新中】
+https://edu.hellobi.com/course/1
+1673 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+菜鸟数据教你从零开始学习数据分析 【连载更新中，每周2集同步】
+https://edu.hellobi.com/course/47
+2486 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+批量调度专家-TASKCTL 学习教程
+https://edu.hellobi.com/course/40
+441 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+DataStage从入门到精通实践视频教程【免费更新】
+https://edu.hellobi.com/course/42
+1497 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+轻松上手，BI 需求及管理 【免费连载中 每周两集】
+https://edu.hellobi.com/course/38
+2516 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+DataStage从入门到精通实践视频教程【精通系列】
+https://edu.hellobi.com/course/46
+15 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+手把手教你使用开源ETL工具kettle
+https://edu.hellobi.com/course/37
+3819 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hadoop 入门及其基础学习【连载更新中】
+https://edu.hellobi.com/course/39
+2462 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+7.25 企业数据化运营沙龙现场录像及演讲 PPT 下载
+https://edu.hellobi.com/course/41
+310 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+问答社区 Cognos 疑难杂症合集【更新中】
+https://edu.hellobi.com/course/44
+379 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SSAS & Excel BI Tips（技巧、独家秘诀）【特权免费系列】
+https://edu.hellobi.com/course/35
+9 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+BI 实际工作典型问题 综合解决方案
+https://edu.hellobi.com/course/45
+1047 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 3月29日  客户分群的模型-聚类分析
+https://edu.hellobi.com/course/266
+59 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Oracle 入门学习视频
+https://edu.hellobi.com/course/32
+922 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 4月19日  基于深度学习医药保险命名实体识别设计与实现(tensorflow+nlp+dl+python)
+https://edu.hellobi.com/course/263
+26 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 4月26日 1小时学会建立信用评分卡（金融数据的小分析-Python）
+https://edu.hellobi.com/course/265
+76 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+QlikView开发宝典
+https://edu.hellobi.com/course/33
+2115 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+体系全面，最具调性！R语言可视化&商务图表实战课程
+https://edu.hellobi.com/course/264
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+知其然亦知其所以然！数据挖掘理论与实战案例！
+https://edu.hellobi.com/course/262
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SSAS & Excel BI Tips（技巧、独家秘诀）【SSAS高端进阶必备免费课程】
+https://edu.hellobi.com/course/34
+868 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+技术更新，战术升级！Python爬虫案例实战从零开始一站通（连载中）
+https://edu.hellobi.com/course/261
+9 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 3月22日 数据分析中的报表自动化
+https://edu.hellobi.com/course/260
+53 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+掘金数据、智胜商业！IBM数据科学系列课程
+https://edu.hellobi.com/course/259
+251 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Microsoft 金牌伙伴 Halo BI 产品教程
+https://edu.hellobi.com/course/36
+198 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+玩转Wastson Explorer ，认知探索，智胜未来！
+https://edu.hellobi.com/course/257
+72 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+IBM Data Science Experience 实战案例，轻松实践数据科学
+https://edu.hellobi.com/course/258
+92 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+三个月教你从零入门人工智能！！| 深度学习精华实践课程 （免费）
+https://edu.hellobi.com/course/255
+2080 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+经典专家！SPSS算法实战神经网络与决策树
+https://edu.hellobi.com/course/256
+152 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+INFORMATICA 高级应用开发视频教程
+https://edu.hellobi.com/course/43
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+年度报告、求职面试--焕发职场新颜
+https://edu.hellobi.com/course/254
+447 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | Python火车票抢票软件编写与实现
+https://edu.hellobi.com/course/253
+1039 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+最案例，金品质！5 In 1机器学习微课，案例实战练真功！
+https://edu.hellobi.com/course/250
+811 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 2018商业智能趋势及新零售行业案例分享
+https://edu.hellobi.com/course/251
+349 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Kaggle十大案例精讲课程
+https://edu.hellobi.com/course/252
+49 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+全栈全能，全力出击！R语言数据分析可视化机器学习新年福利礼包！
+https://edu.hellobi.com/course/248
+2903 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+深入浅出、点金赋能！Hadoop体系大数据开发案例实战
+https://edu.hellobi.com/course/242
+59 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 百度资深数据产品专家教你如何系统学习人工智能
+https://edu.hellobi.com/course/249
+778 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+今日入门，明日全能！6 In 1 Python全栈课程，Free福利等你来拿！
+https://edu.hellobi.com/course/247
+6784 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+集算器学习视频教程
+https://edu.hellobi.com/course/245
+104 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 数据分析岗位面试经验分享
+https://edu.hellobi.com/course/246
+763 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+求职宝典--面试实战指导 + 职业规划解析
+https://edu.hellobi.com/course/241
+46 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Excel BI商业智能分析案例篇
+https://edu.hellobi.com/course/239
+39 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live 用游戏的心态玩转Excel黑科技！！！
+https://edu.hellobi.com/course/238
+1172 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+初步探索 IBM Cognos Analytics 11.0.x
+https://edu.hellobi.com/course/236
+283 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 职场也有双11——你贱卖自己的5大常用技巧
+https://edu.hellobi.com/course/235
+721 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言之新手上路篇
+https://edu.hellobi.com/course/244
+801 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+21天实战人工智能系列：人工智能产品经理最佳实践
+https://edu.hellobi.com/course/243
+64 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+苦练内功，筑基AI！概率论和统计建模战力提升篇！
+https://edu.hellobi.com/course/230
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 1小时破冰入门Python
+https://edu.hellobi.com/course/234
+5897 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 大数据分析之图数据分析与处理
+https://edu.hellobi.com/course/228
+52 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 汇报的艺术2.0升级版——年终汇报特别篇
+https://edu.hellobi.com/course/229
+94 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+润乾报表5学习视频
+https://edu.hellobi.com/course/231
+305 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |R语言爬虫实战案例分享：网易云课堂、知乎live、今日头条、B站视频
+https://edu.hellobi.com/course/237
+152 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Kaggle十大案例精讲（免费）
+https://edu.hellobi.com/course/240
+2063 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |  人工智能系列直播之机器学习与工业实践
+https://edu.hellobi.com/course/226
+122 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |  人工智能系列直播之贝叶斯算法与新闻分类实战
+https://edu.hellobi.com/course/233
+1570 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 年迈的数据分析师教你做年终总结报告
+https://edu.hellobi.com/course/232
+927 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |  人工智能系列直播之逐梦AI，聆听百度人工智能决胜未来之道
+https://edu.hellobi.com/course/224
+76 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+业务+技术！5 In1 微课，起步数据分析+人工智能明日之路
+https://edu.hellobi.com/course/225
+11565 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+网站数据分析场景和方法——效果预测、结论定义、数据探究和业务执行
+https://edu.hellobi.com/course/221
+38 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 搞定矢量图形编辑，让你的报告美出新高度！
+https://edu.hellobi.com/course/220
+460 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 迈进战略发展部，数据驱动业绩增长——经营分析实战攻略
+https://edu.hellobi.com/course/227
+201 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 百度高级营销专家告诉你信息流广告投放的秘诀！
+https://edu.hellobi.com/course/219
+285 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据思维拯救文科生/基层专员—月薪6000的看这里
+https://edu.hellobi.com/course/216
+82 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+AWS上部署免费的Shiny应用
+https://edu.hellobi.com/course/218
+6 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 从小白到offer收割机—人工智能、数据挖掘相关岗位面试经验分享
+https://edu.hellobi.com/course/217
+65 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+玩转大数据分析！Spark2.X+Python 精华实战课程
+https://edu.hellobi.com/course/222
+80 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | HPE大数据平台之海量数据极速分析实现 录播
+https://edu.hellobi.com/course/213
+166 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Tableau数据分析可视化高手进阶（新）
+https://edu.hellobi.com/course/211
+67 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+全栈数据之路-数据科学杂货铺
+https://edu.hellobi.com/course/223
+469 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+玩转大数据分析！Spark2.X+Python 精华实战课程（免费）
+https://edu.hellobi.com/course/215
+2100 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Excel高效实战： 提高桌面生产力之数据整理与保护篇
+https://edu.hellobi.com/course/212
+1136 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Excel高效实战： 提高桌面生产力
+https://edu.hellobi.com/course/207
+62 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 天下武功唯快不破，tableau，就是快录播
+https://edu.hellobi.com/course/208
+449 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+阿里云—数据化运营实践分享【7月8日 上海站】【录像】
+https://edu.hellobi.com/course/206
+566 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |【阿里校招系列直播课程】入职阿里实战分享、入职阿里必备技能及阿里携手厦航AI大赛分享
+https://edu.hellobi.com/course/210
+438 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+磨剑之作，七周成“师”！秦路主讲，七周成为数据分析师
+https://edu.hellobi.com/course/205
+2024 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+思迈特Smartbi Insight V7产品培训课程
+https://edu.hellobi.com/course/209
+206 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 京东大数据赋能业务，揭秘用户画像最佳实践
+https://edu.hellobi.com/course/214
+619 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 胡晨川  教你 数据分析中的细节
+https://edu.hellobi.com/course/203
+145 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+互联网数据分析师成长之路
+https://edu.hellobi.com/course/198
+119 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 如何写出地道的Python代码
+https://edu.hellobi.com/course/204
+84 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+【阿里数加系列课程】--Quick BI系列数据可视化分析课程
+https://edu.hellobi.com/course/201
+619 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi live | 利用 Python 建构金融数据分析平台
+https://edu.hellobi.com/course/200
+141 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 数据蒋堂系列直播课程
+https://edu.hellobi.com/course/197
+197 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+用R语言解读资本资产定价模型
+https://edu.hellobi.com/course/196
+9 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+解密管理咨询公司—体系化思维，清晰解答老板问题的技巧
+https://edu.hellobi.com/course/199
+216 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+大数据职业规划—解析6大数据晋升之路，带你看清职场发展方向
+https://edu.hellobi.com/course/194
+226 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | R语言快速入门及数据挖掘
+https://edu.hellobi.com/course/202
+1253 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | R语言可视化在商务场景中的应用
+https://edu.hellobi.com/course/195
+280 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |【阿里数据系列直播课程】机器学习、数据之旅、数据集成、可视化大屏DataV、数据仓库、数据运营
+https://edu.hellobi.com/course/193
+2343 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 6月1日 Spark实战-银行实时反欺诈录播（已关闭）
+https://edu.hellobi.com/course/190
+75 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+重在实战！十五大案例，开启R语言实战之门金钥匙
+https://edu.hellobi.com/course/192
+1063 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 自然语言处理之-基于深度学习技术的诗歌写作机器人
+https://edu.hellobi.com/course/188
+69 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 人工智能系列直播之Tensorflow实战验证码识别
+https://edu.hellobi.com/course/189
+860 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+技术精讲、业务实践！阿里人工智能机器学习精品课程
+https://edu.hellobi.com/course/191
+1443 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 汇报的艺术：体现数据分析工作价值的技巧
+https://edu.hellobi.com/course/185
+354 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live |前支付宝资深数据分析师 面包君带你玩转互联网金融行业的大数据基本应用
+https://edu.hellobi.com/course/187
+308 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live：站在数据角度看《三生三世十里桃花》
+https://edu.hellobi.com/course/184
+563 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+张丹教你如何用R语言开始量化投资
+https://edu.hellobi.com/course/183
+287 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 自然语言处理之-基于深度学习技术的聊天机器人实现
+https://edu.hellobi.com/course/186
+166 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 从0起步，走BI业务路线
+https://edu.hellobi.com/course/180
+383 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 手把手教你做文本挖掘
+https://edu.hellobi.com/course/181
+920 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 数据科学入门 - 让数据思维成为生活的一部分
+https://edu.hellobi.com/course/175
+1312 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Spark案例讲解
+https://edu.hellobi.com/course/170
+37 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 数据挖掘快速上手之R语言实践
+https://edu.hellobi.com/course/178
+179 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+业务知识一站通，数据分析师的第一堂企业实战课
+https://edu.hellobi.com/course/179
+1279 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+自己动手做大数据系统
+https://edu.hellobi.com/course/164
+14 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 人人都是模型师，CRM、运营分析、财务绩效三部曲
+https://edu.hellobi.com/course/166
+842 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 人工智能系列直播之从BI到AI，数据分析从业人员的的转型
+https://edu.hellobi.com/course/167
+532 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 抓微博评论，做文本分析
+https://edu.hellobi.com/course/182
+1197 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Spark生态圈数据分析课程
+https://edu.hellobi.com/course/168
+411 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+求职必胜，提升面试成功率靠谱攻略
+https://edu.hellobi.com/course/165
+416 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+征服Spark SQL
+https://edu.hellobi.com/course/162
+36 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Google Analytics谷歌分析（GA）触脉咨询系列分享
+https://edu.hellobi.com/course/161
+373 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+微课录播 | 03月14日 GA系列分享1 - 学好Google Analytics之最佳实践
+https://edu.hellobi.com/course/160
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+自己动手，丰衣足食！Python3网络爬虫实战案例
+https://edu.hellobi.com/course/157
+1740 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Spark核心开发讲解
+https://edu.hellobi.com/course/155
+31 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 爬取知乎所有用户详细信息
+https://edu.hellobi.com/course/163
+2219 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+人人都爱数据科学家！Python数据科学精华实战课程
+https://edu.hellobi.com/course/159
+1279 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Python3爬虫三大案例实战分享
+https://edu.hellobi.com/course/156
+9360 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+先机致胜，破冰AI！深度学习模型、框架与实战！
+https://edu.hellobi.com/course/158
+940 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+从0起步，走BI业务路线
+https://edu.hellobi.com/course/153
+62 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 数据分析师如何理解和发现需求及利用数据驱动业务
+https://edu.hellobi.com/course/152
+961 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Spark Streaming课程
+https://edu.hellobi.com/course/169
+30 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Spark分布式集群搭建
+https://edu.hellobi.com/course/149
+29 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | IBM-数据科学方法及机器学习案例分享
+https://edu.hellobi.com/course/154
+372 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | Python机器学习案例实战-贷款利润最大化
+https://edu.hellobi.com/course/150
+1037 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 如何撰写你的第一份数据分析报告
+https://edu.hellobi.com/course/148
+1084 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 平凡之处见真章！Excel透视表实战
+https://edu.hellobi.com/course/145
+789 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 人工智能系列直播之揭开人工智能的神秘面纱
+https://edu.hellobi.com/course/147
+697 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | Spark网站流量异常大规模检测案例实战
+https://edu.hellobi.com/course/141
+372 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+机器学习讲解与实例解析
+https://edu.hellobi.com/course/143
+1753 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+概率论和统计建模—基础篇
+https://edu.hellobi.com/course/146
+934 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | Oracle大数据分析之数据探索在金融业的应用
+https://edu.hellobi.com/course/142
+352 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+从0起步，走BI业务路线 【免费】
+https://edu.hellobi.com/course/140
+1265 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+案例为师、实战为王，开启Python机器学习之路
+https://edu.hellobi.com/course/144
+1058 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SAS从菜鸟到高手 之 轻松上手
+https://edu.hellobi.com/course/139
+599 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 机器学习技术在Python语言的商业应用
+https://edu.hellobi.com/course/138
+1182 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Python机器学习kaggle案例
+https://edu.hellobi.com/course/137
+2150 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 需求链驱动数据化的零售生意
+https://edu.hellobi.com/course/135
+368 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+基本统计方法及其在R中的实现
+https://edu.hellobi.com/course/134
+1025 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+对话大数据系列技术 从破冰到精进
+https://edu.hellobi.com/course/136
+1115 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+用数据说话-Excel BI商业智能分析零基础精讲课程
+https://edu.hellobi.com/course/133
+1105 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言进阶篇：行业案例分享
+https://edu.hellobi.com/course/130
+422 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据分析报告制作秘籍升级版
+https://edu.hellobi.com/course/132
+1009 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 民生银行用户画像搭建与应用
+https://edu.hellobi.com/course/131
+1982 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言冲刺篇：数据挖掘可视化工具：Rattle篇
+https://edu.hellobi.com/course/128
+336 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言进阶篇：数据挖掘平台原型搭建
+https://edu.hellobi.com/course/129
+330 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 数据分析师成长之路
+https://edu.hellobi.com/course/124
+1132 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言高级提升篇：数据挖掘算法之机器学习篇
+https://edu.hellobi.com/course/126
+395 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 对玩家付费行为进行预测案例分享
+https://edu.hellobi.com/course/122
+486 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+微软Power BI高端视频教程-【全国独家】 （连载中）
+https://edu.hellobi.com/course/121
+27 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言高级提升篇：数据挖掘算法之模型评估篇
+https://edu.hellobi.com/course/127
+338 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 利用R语言做数据可视化
+https://edu.hellobi.com/course/123
+1600 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+征服Spark第一季 详解Scala函数式编程
+https://edu.hellobi.com/course/120
+440 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SAS可视化数据挖掘与分析
+https://edu.hellobi.com/course/114
+157 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言高级提升篇：数据挖掘算法之统计模型篇
+https://edu.hellobi.com/course/125
+452 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+用Excel对话数据-零基础Excel商业智能分析
+https://edu.hellobi.com/course/118
+2087 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hellobi Live | 3月22日 数据分析中的报表自动化
+https://edu.hellobi.com/course/117
+1463 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言之shiny应用视频教程
+https://edu.hellobi.com/course/116
+232 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据分析报告制作
+https://edu.hellobi.com/course/115
+3610 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+中级基础篇：R语言之数据探索
+https://edu.hellobi.com/course/112
+431 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+《零基础Hadoop特训营第一期》
+https://edu.hellobi.com/course/109
+197 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+网站统计分析之Google analytic介绍与应用
+https://edu.hellobi.com/course/113
+197 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据微课 | Python实战案例分享：爬取当当网商品数据
+https://edu.hellobi.com/course/111
+1638 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+ELK大数据搜索及日志分析系统原理与实践详解
+https://edu.hellobi.com/course/106
+503 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Python3数据分析与挖掘实战
+https://edu.hellobi.com/course/110
+759 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+中级基础篇：R语言之高级绘图
+https://edu.hellobi.com/course/108
+381 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+中级基础篇：R语言绘图基础
+https://edu.hellobi.com/course/105
+401 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+用Python进行数据挖掘-从通用的数据挖掘流程到推荐系统、自然语言处理
+https://edu.hellobi.com/course/104
+1652 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+从零开始学习Spark免费视频教程
+https://edu.hellobi.com/course/107
+1456 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+大数据BI体系架构及模型设计
+https://edu.hellobi.com/course/100
+519 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Python3零基础快速入门
+https://edu.hellobi.com/course/103
+2660 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+独一无二的数据仓库建模指南系列教程升级版 （连载中）
+https://edu.hellobi.com/course/102
+765 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Storm基础应用案例讲解
+https://edu.hellobi.com/course/101
+226 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+汽车电商营销020系列数据分析
+https://edu.hellobi.com/course/98
+523 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言初级入门篇：数据描述性统计分析及数据抽样
+https://edu.hellobi.com/course/99
+461 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Hive实战场景应用案例
+https://edu.hellobi.com/course/97
+788 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Oracle基于实际应用产品演示和案例介绍
+https://edu.hellobi.com/course/95
+144 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+初级入门篇：R语言数据对象及数据基本管理
+https://edu.hellobi.com/course/94
+678 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+大数据系列免费视频教程 【Linux、Hadoop、Spark、Kylin、Hive、HBase、Sqoop、日志分析等】
+https://edu.hellobi.com/course/93
+6303 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Mapreduce快速入门实例解析
+https://edu.hellobi.com/course/92
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+MapReduce快速入门实例解析
+https://edu.hellobi.com/course/91
+491 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R语言与文本挖掘入门视频
+https://edu.hellobi.com/course/90
+145 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+初级入门篇：R语言数据导入导出
+https://edu.hellobi.com/course/96
+505 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+常用数据挖掘算法原理解释与应用
+https://edu.hellobi.com/course/89
+1904 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+敬请期待，SVIP课程在2018年会陆续上线15套课程；购买SVIP后可先学习已上线的7套课程
+https://edu.hellobi.com/course/85
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Power-BI V11 基于EXCEL数据源快速制作管理驾驶舱
+https://edu.hellobi.com/course/87
+167 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Tableau 精品入门视频教程【新手必看】
+https://edu.hellobi.com/course/88
+1667 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据挖掘的SPSS之路
+https://edu.hellobi.com/course/86
+966 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+爬虫利器pyspider视频教程
+https://edu.hellobi.com/course/82
+1017 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Tableau从入门到精通
+https://edu.hellobi.com/course/77
+34 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据分析与挖掘案例分析实践免费视频教程(持续更新ing)
+https://edu.hellobi.com/course/83
+1236 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Python网络爬虫实战
+https://edu.hellobi.com/course/81
+6767 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Tableau数据分析实战
+https://edu.hellobi.com/course/79
+1250 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+MySQL入门很简单（免费）
+https://edu.hellobi.com/course/78
+1510 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+用户行为分析与推荐系统设计
+https://edu.hellobi.com/course/75
+32 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Excel从菜鸟到高手
+https://edu.hellobi.com/course/72
+32 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SQL Server 操作实战
+https://edu.hellobi.com/course/73
+33 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据分析师职场课程
+https://edu.hellobi.com/course/70
+34 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+互联网数据分析与数据化运营实践
+https://edu.hellobi.com/course/74
+32 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据挖掘与R语言
+https://edu.hellobi.com/course/69
+35 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+R&Python机器学习入门
+https://edu.hellobi.com/course/80
+3330 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Python快速入门免费课程（持续更新中）
+https://edu.hellobi.com/course/71
+1093 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据可视化与分析报告撰写
+https://edu.hellobi.com/course/67
+35 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据挖掘在人工智能中的应用
+https://edu.hellobi.com/course/84
+469 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+快速玩转微软Power BI系列视频教程
+https://edu.hellobi.com/course/76
+1557 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+MySQL入门很简单
+https://edu.hellobi.com/course/66
+34 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+初级入门篇：R语言快速入门免费视频教程
+https://edu.hellobi.com/course/68
+5198 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+商务与经济统计学
+https://edu.hellobi.com/course/64
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+FineBI 4.0入门视频教程
+https://edu.hellobi.com/course/61
+256 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+FineReport 8.0 基础培训视频
+https://edu.hellobi.com/course/60
+224 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+帆软商业智能FineBI产品介绍
+https://edu.hellobi.com/course/65
+120 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Speed-BI 云平台入门到精通视频教程
+https://edu.hellobi.com/course/63
+36 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Power-BI 零售行业数据分析交流
+https://edu.hellobi.com/course/57
+127 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+21天零基础精通 QlikView
+https://edu.hellobi.com/course/62
+68 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Cognos BI集群服务器架构与管理
+https://edu.hellobi.com/course/56
+12 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+【转】如何学习英语口语
+https://edu.hellobi.com/course/55
+6 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Oracle 数据库入门教程
+https://edu.hellobi.com/course/58
+1034 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+统计学基础
+https://edu.hellobi.com/course/59
+62 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+永洪科技2015年度用户大会嘉宾演讲视频
+https://edu.hellobi.com/course/53
+196 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据仓库建模指南系列教程 【结合大量项目实践的长篇教程、国内首发】
+https://edu.hellobi.com/course/54
+4092 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Power-BI免费版培训视频
+https://edu.hellobi.com/course/52
+250 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+奥威Power-BI
+https://edu.hellobi.com/course/51
+191 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Informatica Tuning 调优完整系列课程
+https://edu.hellobi.com/course/49
+614 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Cognos 10 高级开发和应用课程
+https://edu.hellobi.com/course/50
+553 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Cognos 从入门到精通高级视频教程【免费更新】
+https://edu.hellobi.com/course/30
+2755 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+永洪敏捷BI精品培训教程
+https://edu.hellobi.com/course/31
+1041 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+老头子系列出品公开课之Oracle性能优化系列
+https://edu.hellobi.com/course/48
+799 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SAP BO Dashboards新手入门视频教程【免费】
+https://edu.hellobi.com/course/25
+726 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SAP BO Dashboard 初级培训视频教程
+https://edu.hellobi.com/course/27
+1310 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+INFORMATICA 从入门到项目实际开发视频教程
+https://edu.hellobi.com/course/26
+48 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+IBM Cognos 从入门到精通高级视频教程
+https://edu.hellobi.com/course/19
+95 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+OBIEE 深入浅出精品视频教程【免费持续更新】
+https://edu.hellobi.com/course/29
+1817 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Smartbi电子表格版入门到精通教程—新一代Java Web 报表工具
+https://edu.hellobi.com/course/28
+943 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+INFORMATICA 入门开发实战视频教程
+https://edu.hellobi.com/course/24
+2479 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SQL Server 2012 性能优化技术教程
+https://edu.hellobi.com/course/23
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+微软BI SSIS 2012 ETL 控件与案例精讲
+https://edu.hellobi.com/course/21
+138 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+微软BI SSIS 2012 ETL 控件与案例精讲课程【免费】
+https://edu.hellobi.com/course/22
+1575 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SQL SERVERVER 2012 从零开始学数据库管理开发视频教程
+https://edu.hellobi.com/course/20
+2722 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+OBIEE 深入浅出精品视频教程
+https://edu.hellobi.com/course/17
+167 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+IBM Cognos 在线学习精品课程【数据仓库、FM建模、RS高级开发、TR建模】
+https://edu.hellobi.com/course/13
+0 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SSRS 2012 Metro UI 高端报表视频教程【全国首家】
+https://edu.hellobi.com/course/15
+169 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+SSRS 2012 WIN8 Metro 高端报表教程【免费持续更新】
+https://edu.hellobi.com/course/18
+1279 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+问答社区微软BI问题及性能优化工具合集
+https://edu.hellobi.com/course/16
+531 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+天善内部精品Cognos教程【体系结构、组件介绍、固定报表制作详解】
+https://edu.hellobi.com/course/12
+1274 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+天善问答 Oracle BIEE 常见问题视频教程【连载中】
+https://edu.hellobi.com/course/14
+801 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+商业智能工具，基础、行业应用，职业发展系列教程【2013年内部资料】
+https://edu.hellobi.com/course/11
+1433 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+微软 BI 高端【认证】培训课-【周末网络班】第二十期报名中...
+https://edu.hellobi.com/course/10
+6 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+数据仓库精品教程【特点，数据仓库和ETL设计思想、架构(自上而下、自下而上)、常用概念】
+https://edu.hellobi.com/course/9
+3421 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+IBM Cognos 中级视频教程 【模型和报表教程】
+https://edu.hellobi.com/course/6
+1180 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+Oracle BIEE 提高视频教程【时间序列函数，多表头制作，数据同步】
+https://edu.hellobi.com/course/7
+1098 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+微软商业智能实战入门及提高视频教程
+https://edu.hellobi.com/course/8
+244 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+咖啡姐 BIEE 11G 精品入门视频教程【新手必看】
+https://edu.hellobi.com/course/5
+2514 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+IBM Cognos 初级教程 【入门必学】
+https://edu.hellobi.com/course/3
+2396 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+MS SQL数据库入门及初级BI教程
+https://edu.hellobi.com/course/2
+1539 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
+BI基础知识漫谈【献给所以热爱商业智能的朋友】
+https://edu.hellobi.com/course/4
+2299 人学习
+https://edu.hellobi.com/images/logo/xueyuan2.png
+
+
+
