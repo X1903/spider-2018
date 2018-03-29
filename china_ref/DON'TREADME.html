@@ -1,0 +1,456 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>DON'TREADME</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<style type="text/css">
+/* GitHub stylesheet for MarkdownPad (http://markdownpad.com) */
+/* Author: Nicolas Hery - http://nicolashery.com */
+/* Version: b13fe65ca28d2e568c6ed5d7f06581183df8f2ff */
+/* Source: https://github.com/nicolahery/markdownpad-github */
+
+/* RESET
+=============================================================================*/
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+/* BODY
+=============================================================================*/
+
+body {
+  font-family: Helvetica, arial, freesans, clean, sans-serif;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+  background-color: #fff;
+  padding: 20px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+body>*:first-child {
+  margin-top: 0 !important;
+}
+
+body>*:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* BLOCKS
+=============================================================================*/
+
+p, blockquote, ul, ol, dl, table, pre {
+  margin: 15px 0;
+}
+
+/* HEADERS
+=============================================================================*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 20px 0 10px;
+  padding: 0;
+  font-weight: bold;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 tt, h1 code, h2 tt, h2 code, h3 tt, h3 code, h4 tt, h4 code, h5 tt, h5 code, h6 tt, h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 28px;
+  color: #000;
+}
+
+h2 {
+  font-size: 24px;
+  border-bottom: 1px solid #ccc;
+  color: #000;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+h4 {
+  font-size: 16px;
+}
+
+h5 {
+  font-size: 14px;
+}
+
+h6 {
+  color: #777;
+  font-size: 14px;
+}
+
+body>h2:first-child, body>h1:first-child, body>h1:first-child+h2, body>h3:first-child, body>h4:first-child, body>h5:first-child, body>h6:first-child {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+a:first-child h1, a:first-child h2, a:first-child h3, a:first-child h4, a:first-child h5, a:first-child h6 {
+  margin-top: 0;
+  padding-top: 0;
+}
+
+h1+p, h2+p, h3+p, h4+p, h5+p, h6+p {
+  margin-top: 10px;
+}
+
+/* LINKS
+=============================================================================*/
+
+a {
+  color: #4183C4;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* LISTS
+=============================================================================*/
+
+ul, ol {
+  padding-left: 30px;
+}
+
+ul li > :first-child, 
+ol li > :first-child, 
+ul li ul:first-of-type, 
+ol li ol:first-of-type, 
+ul li ol:first-of-type, 
+ol li ul:first-of-type {
+  margin-top: 0px;
+}
+
+ul ul, ul ol, ol ol, ol ul {
+  margin-bottom: 0;
+}
+
+dl {
+  padding: 0;
+}
+
+dl dt {
+  font-size: 14px;
+  font-weight: bold;
+  font-style: italic;
+  padding: 0;
+  margin: 15px 0 5px;
+}
+
+dl dt:first-child {
+  padding: 0;
+}
+
+dl dt>:first-child {
+  margin-top: 0px;
+}
+
+dl dt>:last-child {
+  margin-bottom: 0px;
+}
+
+dl dd {
+  margin: 0 0 15px;
+  padding: 0 15px;
+}
+
+dl dd>:first-child {
+  margin-top: 0px;
+}
+
+dl dd>:last-child {
+  margin-bottom: 0px;
+}
+
+/* CODE
+=============================================================================*/
+
+pre, code, tt {
+  font-size: 12px;
+  font-family: Consolas, "Liberation Mono", Courier, monospace;
+}
+
+code, tt {
+  margin: 0 0px;
+  padding: 0px 0px;
+  white-space: nowrap;
+  border: 1px solid #eaeaea;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+
+pre>code {
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  border: none;
+  background: transparent;
+}
+
+pre {
+  background-color: #f8f8f8;
+  border: 1px solid #ccc;
+  font-size: 13px;
+  line-height: 19px;
+  overflow: auto;
+  padding: 6px 10px;
+  border-radius: 3px;
+}
+
+pre code, pre tt {
+  background-color: transparent;
+  border: none;
+}
+
+kbd {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #DDDDDD;
+    background-image: linear-gradient(#F1F1F1, #DDDDDD);
+    background-repeat: repeat-x;
+    border-color: #DDDDDD #CCCCCC #CCCCCC #DDDDDD;
+    border-image: none;
+    border-radius: 2px 2px 2px 2px;
+    border-style: solid;
+    border-width: 1px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 10px;
+    padding: 1px 4px;
+}
+
+/* QUOTES
+=============================================================================*/
+
+blockquote {
+  border-left: 4px solid #DDD;
+  padding: 0 15px;
+  color: #777;
+}
+
+blockquote>:first-child {
+  margin-top: 0px;
+}
+
+blockquote>:last-child {
+  margin-bottom: 0px;
+}
+
+/* HORIZONTAL RULES
+=============================================================================*/
+
+hr {
+  clear: both;
+  margin: 15px 0;
+  height: 0px;
+  overflow: hidden;
+  border: none;
+  background: transparent;
+  border-bottom: 4px solid #ddd;
+  padding: 0;
+}
+
+/* TABLES
+=============================================================================*/
+
+table th {
+  font-weight: bold;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #fff;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* IMAGES
+=============================================================================*/
+
+img {
+  max-width: 100%
+}
+</style>
+</head>
+<body>
+<h6>不是很</h6>
+<h1>坑</h1>
+<p>  就按时间的顺序吐槽一下</p>
+<h2>前言</h2>
+<p>  爬的是中国裁判文书网,别问为什么是它.....</p>
+<h2>用途</h2>
+<ul>
+<li>分析历年犯罪率,体现社会环境的变化?---扯淡</li>
+<li>分析地区犯罪率,以供投资参考?---扯淡</li>
+<li>瞎选的</li>
+</ul>
+<h2>血泪史</h2>
+<ol>
+<li>开始分析页面,发现页面的数据都是动态加载的</li>
+<li>抓包分析,数据是在ListContent的数据包中,通过ajax请求动态获取</li>
+<li>继续分析,url是<code>http://wenshu.court.gov.cn/List/ListContent</code>,通过post方式提交,但是post的请求体中有一些很可疑的加密数据,事后证明确实是密钥之类的,验证匹配用的,主要数据如下</li>
+</ol>
+<pre><code class="language-js">// FormData
+Param:案件类型:刑事案件
+Index:1
+Page:5
+Order:法院层级
+Direction:asc
+vl5x:2f43b665c940dc5dc319cfd8
+number:YUUX3F9J
+guid:5b36f626-6642-929f1baf-3f97f952ca1c
+</code></pre>
+<ol start="4">
+<li>全文检索guid,定位到js文件中,发现guid是随机生成的,服务器端应该无发备份,符合格式即可</li>
+</ol>
+<pre><code class="language-js">// 生成四位guid的代码,产生一个随机数乘以一个数在通过位运算取整
+// 在转成16进制的字符串,去掉首字母取剩下四个
+var createGuid = function () {
+        return (((1 + Math.random()) * 0x10000) | 0).toString(16).substring(1);
+    }
+</code></pre>
+<ol start="5">
+<li>全文检索v15x,找到产生的js问件,在一个ajax请求中,截取部分代码如下</li>
+</ol>
+<pre><code class="language-js"> data: { &quot;Param&quot;: treeparam, &quot;vl5x&quot;: getKey(), &quot;guid&quot;: guid1, &quot;number&quot;: yzm1 },
+</code></pre>
+<ol start="6">
+<li>很明显是通过getKey()这个函数产生的,没得说,继续全文检索getKey(),找到了定义函数的地方,然后一个大<strong>坑</strong>:</li>
+</ol>
+<pre><code class="language-js">function getKey() {
+    eval(_fxxx('o q=\'&lt;&lt;(i%h))}e d}f p(7){9 d=0;k(9 i=......'//后面省略1000代码
+    eval(_fxxx('0 8=\'4\';0 a=\'2\';0 3=\'5\';0 1=\'(7)\';0'//后面省略1000代码
+    ....
+    ....
+    ....
+    eval(_fxxx('0 2=1a(\'1b\');0 1=[1c,17,18,19,1g'//....
+    return result
+}
+</code></pre>
+<ol start="7">
+<li>一脸问号...这是啥玩意?百度了下发现eval()这个函数是用来执行符合js语法的字符串的....这个符合吗???符合吗???</li>
+<li>冷静一下,用用排除法,可能猫腻在_fxxx,这个函数可能是个解密的函数- -</li>
+<li>找_fxxx,就在getKey的头上</li>
+</ol>
+<pre><code class="language-js">var _fxxx = function (p, a, c, k, e, d) { 
+    e = function (c) { 
+        return (c &lt; a ? &quot;&quot; : e(parseInt(c / a))) + ((c = c % a) &gt; 35 ? String.fromCharCode(c + 29) : c.toString(36)) 
+    }; 
+        if (!''.replace(/^/, String)) { 
+            
+            while (c--) d[e(c)] = k[c] || e(c);
+            k = [function (e) { return d[e] } ];
+            e = function () { return '\\w+' }; 
+            c = 1; 
+        }; 
+        while (c--) if (k[c]) p = p.replace(new RegExp('\\b' + e(c) + '\\b', 'g'), k[c]); return p; }
+</code></pre>
+<ol start="10">
+<li>分析了一大堆,结果大多还推导错了....不过大概能确认字符串是被加密过,使用_fxxx可以还原,但自己是没办法把他还原了</li>
+<li>在刷刷浏览器....发现了控制台,于是把_fxxx在控制台定义了一遍,然后把十几条_fxxx()的调用复制粘贴到控制台里,手动苦逼的实现还原</li>
+<li>将字符串去掉引号,整理格式,顿时懵逼了,大概截取了一下getKey的主要实现逻辑</li>
+</ol>
+<pre><code class="language-js">function getKey(){
+    ...... //定义了200个makeKey_0 至makeKey_199
+    // 获取cookies
+var cookie = getCookie('vjkl5');
+// 定义函数的列表长度为 200
+var arrFun = [makeKey_0, makeKey_1, makeKey_2, makeKey_3, makeKey_4, makeKey_5, makeKey_6, makeKey_7, makeKey_8, makeKey_9, makeKey_10, makeKey_11, makeKey_12, makeKey_13, makeKey_14, makeKey_15, makeKey_16, makeKey_17, makeKey_18, makeKey_19, makeKey_20, makeKey_21, makeKey_22, makeKey_23, makeKey_24, makeKey_25, makeKey_26, makeKey_27, makeKey_28, makeKey_29, makeKey_30, makeKey_31, makeKey_32, makeKey_33, makeKey_34, makeKey_35, makeKey_36, makeKey_37, makeKey_38, makeKey_39, makeKey_40, makeKey_41, makeKey_42, makeKey_43, makeKey_44, makeKey_45, makeKey_46, makeKey_47, makeKey_48, makeKey_49, makeKey_50, makeKey_51, makeKey_52, makeKey_53, makeKey_54, makeKey_55, makeKey_56, makeKey_57, makeKey_58, makeKey_59, makeKey_60, makeKey_61, makeKey_62, makeKey_63, makeKey_64, makeKey_65, makeKey_66, makeKey_67, makeKey_68, makeKey_69, makeKey_70, makeKey_71, makeKey_72, makeKey_73, makeKey_74, makeKey_75, makeKey_76, makeKey_77, makeKey_78, makeKey_79, makeKey_80, makeKey_81, makeKey_82, makeKey_83, makeKey_84, makeKey_85, makeKey_86, makeKey_87, makeKey_88, makeKey_89, makeKey_90, makeKey_91, makeKey_92, makeKey_93, makeKey_94, makeKey_95, makeKey_96, makeKey_97, makeKey_98, makeKey_99, makeKey_100, makeKey_101, makeKey_102, makeKey_103, makeKey_104, makeKey_105, makeKey_106, makeKey_107, makeKey_108, makeKey_109, makeKey_110, makeKey_111, makeKey_112, makeKey_113, makeKey_114, makeKey_115, makeKey_116, makeKey_117, makeKey_118, makeKey_119, makeKey_120, makeKey_121, makeKey_122, makeKey_123, makeKey_124, makeKey_125, makeKey_126, makeKey_127, makeKey_128, makeKey_129, makeKey_130, makeKey_131, makeKey_132, makeKey_133, makeKey_134, makeKey_135, makeKey_136, makeKey_137, makeKey_138, makeKey_139, makeKey_140, makeKey_141, makeKey_142, makeKey_143, makeKey_144, makeKey_145, makeKey_146, makeKey_147, makeKey_148, makeKey_149, makeKey_150, makeKey_151, makeKey_152, makeKey_153, makeKey_154, makeKey_155, makeKey_156, makeKey_157, makeKey_158, makeKey_159, makeKey_160, makeKey_161, makeKey_162, makeKey_163, makeKey_164, makeKey_165, makeKey_166, makeKey_167, makeKey_168, makeKey_169, makeKey_170, makeKey_171, makeKey_172, makeKey_173, makeKey_174, makeKey_175, makeKey_176, makeKey_177, makeKey_178, makeKey_179, makeKey_180, makeKey_181, makeKey_182, makeKey_183, makeKey_184, makeKey_185, makeKey_186, makeKey_187, makeKey_188, makeKey_189, makeKey_190, makeKey_191, makeKey_192, makeKey_193, makeKey_194, makeKey_195, makeKey_196, makeKey_197, makeKey_198, makeKey_199];
+// strToLong(str) ==&gt; 将每个字符转换成ascii码,乘以2的它的下标的幂次方,相加
+// long
+// for index,val in enumerate(str):
+//     long += ord(val)*2**index
+// reduce(lambda x,y:x+y, [ord(x)*2**i for i,x in enumerate(str)])
+// cookies按以上方法转化成数字后除以200取余数
+var funIndex = strToLong(cookie) % arrFun.length;
+// 以余数为下标获取相应的加密函数
+var fun = arrFun[funIndex];
+// 使用加密函数对cookie进行加密
+var result = fun(cookie);
+return result
+}
+</code></pre>
+<ol start="13">
+<li>是的你没有看错,他定义了200个加密函数,使用cookie将cookie转化为下标获取一个加密函数进行加密, 每次刷新他的cookie都是会变的......200个加密函数</li>
+<li>除了copy他的200个加密函数还有别的办法吗?那只能copy了,作为一个程序员,当然应该有技巧的偷懒,忘了_fxxx的复制粘贴吧,不存在的</li>
+<li>吭哧吭哧的写了个把js代码转换成python的小工具,总结了以下几点</li>
+</ol>
+<pre><code>1. function 替换成 def
+2. 去掉所有的}
+3. 看情况将{换成:
+4. 去掉所有的var python定义不用关键字
+5. 去掉所有的new python创建对象也不用关键字
+6. for 循环改成while循环
+    1. 去掉for和外层()
+    2. 使用;切片,换行
+    3. 保留第一片的缩进,第二片前面加while后面补(冒号):,第三片i++放在while循环内,所以两倍缩进
+7. 改掉所有的++为+=1, -- 为-=1
+8. js字符串有substr方法,要将其改成[]python的下标切片的形式
+9. 字符串有length属性,改成len()调用
+10. js字符串有个toCodeAt()方法,返回某个下标字符串的ascii码.......
+.....
+</code></pre>
+<ol start="16">
+<li>实际上,进行到第8步就有点难以为继了,通过re的sub替换勉强实现了str.substr()的一个参数和两个参数的转换,但一检查发现居然还有表达式参数.....还有带()的表达式参数...MMP</li>
+<li>没办法了,搜一搜看看有没有什么工具吧,一搜发现还真有,出来了四五个,美滋滋,但貌似只有jiphy能实现js转python,其他都是python转js的</li>
+<li>下载下来一试...非常僵硬,这个jiphy第6步只是将for替换成while就完了,更别说其他...我十分有理由相信他只是实现了一下简单的全局替换......</li>
+<li>没的说,立马卸载了,jiphy在电脑里存活的时间都不到半小时</li>
+<li>换个思路吧,不是总能一颗树直接吊死的,有时也没办法也只能换一颗....能不能在python里执行js代码呢?反正python不是号称胶水语言吗,一搜发现还真有,模块名字叫pyv8.</li>
+<li>下载吧,没的选择. 结果发现pip安装失败,查了好久才知道这货好像不兼容python3......</li>
+<li>..........只能再换一颗树了</li>
+<li>因为现在关键在于,python的字符串方法和js的不一样,能不能模仿js的方法定义字符串呢?大概看了下,200个加密函数用到了字符串的3个方法:substr切片,toCodeAt()转换ascii码,length属性返回长度,开搞......</li>
+</ol>
+<pre><code class="language-python">class JsStr(str):
+
+    def __init__(self, *args, **kwargs):
+        super().__init__()
+        self.length = len(self)
+
+    def substr(self, min, max=None):
+        if max:
+            return JsStr(self[min:min+max])
+        else:
+            return JsStr(self[min:])
+
+    def charCodeAt(self, index):
+        res = ord(self[index])
+        return JsInt(res)
+
+    def __add__(self, other):
+        # 解决相加改变类型
+        t = self[0:]
+        res = t + str(other)
+        return JsStr(res)
+        # return self + str(other)
+</code></pre>
+<ol start="24">
+<li>因为还有js的字符串和数字相加隐式转换,所以也改写了<strong>add</strong>魔法方法,也定义了JsInt类,到了这里,终于能运行了...200个加密函数..(china.py)</li>
+<li>测试了一下,发现不对,天真的以为他的Base64加密可能不一样,就把他的Base64代码改写成python,发现还是不行</li>
+<li>再一顿瞎排查后终于发现原来是切片的原因,python切片第二个参数是限制子串的下标,js的是子串的长度,修改了一下终于ok了...指定cookies加密后和网页的一样</li>
+<li>然后...然后就真的吊死了......白折腾,他的cookies和密钥是能重复用的,重复用的,复用的....直接复制就好了...</li>
+<li>雪崩......</li>
+</ol>
+<h3>总结: 人在家中坐,坑从天上来</h3>
+<h2>selenium: 求求你用用我把,快被你蠢哭了</h2>
+
+</body>
+</html>
+<!-- This document was created with MarkdownPad, the Markdown editor for Windows (http://markdownpad.com) -->
