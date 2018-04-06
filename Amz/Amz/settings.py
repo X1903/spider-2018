@@ -93,9 +93,9 @@ SCHEDULER = "scrapy_redis.scheduler.Scheduler"
 SCHEDULER_PERSIST = True
 SCHEDULER_QUEUE_CLASS = 'scrapy_redis.queue.SpiderPriorityQueue'
 REDIS_URL = 'redis://root:password@127.0.0.1:6379'
-# REDIS_URL = 'redis://39.106.67.162:6379'
+
 REDIS_HOST = '127.0.0.1'
-# REDIS_HOST = '39.106.67.162'
+
 REDIS_PORT = 6379
 DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 
