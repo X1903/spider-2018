@@ -59,6 +59,8 @@ print(item['categories'])
 print(item['pubDate'])
 print(item['category'])
 
+print(item['category'])
+
         '''
 
 
