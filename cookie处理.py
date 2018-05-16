@@ -7,4 +7,5 @@ opener = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(cjar))
 urllib.request.install_opener(opener)
  
 #cookie读取
+#cookie读取
 print(str(cjar))
